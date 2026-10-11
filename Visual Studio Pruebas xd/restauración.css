@@ -1,0 +1,15 @@
+img{
+    width: 310px;
+    height: 240px;
+}
+
+html{
+    color: aliceblue;
+    background-color: darkgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+video{
+    width: 510px;
+    height: 440px;
+}
